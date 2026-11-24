@@ -1,0 +1,29 @@
+{
+ "0.0": {
+  "params": 4206602,
+  "test_acc_final": 0.5213000178337097,
+  "test_acc_at_best_val_epoch": 0.5235999822616577,
+  "best_val_epoch": 24,
+  "val_acc_final": 0.5288000106811523,
+  "val_acc_best": 0.5397999882698059,
+  "n_noisy": 0
+ },
+ "0.4": {
+  "params": 4206602,
+  "test_acc_final": 0.3718000054359436,
+  "test_acc_at_best_val_epoch": 0.4603999853134155,
+  "best_val_epoch": 6,
+  "val_acc_final": 0.3643999993801117,
+  "val_acc_best": 0.46480000019073486,
+  "n_noisy": 16254
+ },
+ "1.0": {
+  "params": 4206602,
+  "test_acc_final": 0.09860000014305115,
+  "test_acc_at_best_val_epoch": 0.1151999980211258,
+  "best_val_epoch": 1,
+  "val_acc_final": 0.0997999981045723,
+  "val_acc_best": 0.11580000072717667,
+  "n_noisy": 40417
+ }
+}
