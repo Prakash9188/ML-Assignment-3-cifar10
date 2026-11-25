@@ -1,7 +1,7 @@
 # ML Assignment 3 – MLPs, CNNs, Autoencoders, SVMs, Clustering on CIFAR10
 
 Name: Prakash Singh  Roll no: M26CSA015  (seed = 26015, all digits of the roll number)
-Repository link / final commit hash: _fill in after `git init && git commit`_
+Repository: https://github.com/Prakash9188/ML-Assignment-3-cifar10  \nCode/results commit: `d82e95328cd9decfb2ec7dd60dee2485d6c773f7` (later commits only update the report text/PDF)
 
 ## Reproduce (CPU only, Python 3.11, ~4-6 h on 4 threads)
 ```powershell
