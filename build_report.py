@@ -47,7 +47,7 @@ ms = lambda r: f"{100 * r['test_mean']:.1f} ± {100 * r['test_std']:.1f}"
 # ------------------------------------------------------------------ title
 story += [P_("Machine Learning Assignment 3: MLPs, CNNs, Autoencoders, SVMs and Clustering on CIFAR10", ttl),
           P_("<b>Prakash Singh</b> &nbsp;·&nbsp; Roll no. <b>M26CSA015</b> &nbsp;·&nbsp; Seed = 26015", sub),
-          P_("Repository: <i>[to be filled: GitHub link]</i> &nbsp;·&nbsp; Final commit: <i>[to be filled: hash]</i>", sub),
+          P_("Repository: github.com/Prakash9188/ML-Assignment-3-cifar10 &nbsp;·&nbsp; Final commit: 9e46585", sub),
           Spacer(1, 4), FrameBreak()]
 
 story += [P_("Abstract", h1), P_(
